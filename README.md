@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hey everybody, welcome to Cauã Bertolini's Github.
+
+I've been studying how to code since I was twelve. Nowadays I study Computer Science at FURB (Regional Blumenau's University Foundation).
 
 <!--
 **CauaBertolini/cauabertolini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
